@@ -12,7 +12,7 @@ https://img.shields.io/github/license/TwoTonne/portfolio-alura https://github.co
 
 ## 📁 Galeria do projeto
 
-[Veja o projeto final do curso em funcionamento](https://portfolio-alura-kappa-five.vercel.app/curriculo.html).
+[Veja o projeto final do curso em funcionamento](https://alura-books-five-weld.vercel.app).
 
 ![AluraBooksPeq](https://github.com/TwoTonne/alura-books/assets/69181302/8c50a98e-4ff9-487a-83a4-66aa45f3a74d)
 ![AluraBooksMed](https://github.com/TwoTonne/alura-books/assets/69181302/0de84dd4-9ea7-4a0d-af20-b8550501b90f)
